@@ -1,0 +1,7 @@
+export enum Format {
+  DVD = 'DVD',
+  BLURAY = 'BLURAY',
+  VHS = 'VHS',
+  COMPILED_DVD = 'COMPILED_DVD ',
+  COMPILED_BLURAY = 'COMPILED_BLURAY',
+}
