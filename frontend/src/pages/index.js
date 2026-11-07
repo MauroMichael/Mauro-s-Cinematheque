@@ -28,7 +28,7 @@ export default function Home() {
 
   return (
     <main className={styles.main}>
-      <h1 className={styles.title}>Cinemáurico Films</h1>
+      <h1 className={styles.title}>Mauro Cinematheque</h1>
       {loading && (
         <div className={styles.cinemaLoader}>
           <div className={styles.loaderTrack}>
